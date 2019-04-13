@@ -51,7 +51,7 @@ Follow these steps to set up and work on your project:
 Follow these steps for completing your project:
 
 - [x] `cd` into the root of the project and run `yarn` to install dependencies.
-- [ ] Once you have your `node_modules` go ahead and run `yarn server` or `npm run server` to start your node server.
+- [x] Once you have your `node_modules` go ahead and run `yarn server` or `npm run server` to start your node server.
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
 - [ ] Add your Project Manager as a Reviewer on the Pull-request
 - [ ] PM then will count the HW as done by  merging the branch back into master.
